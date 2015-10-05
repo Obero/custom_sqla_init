@@ -1,4 +1,4 @@
-# Crystal Ball
+# Custom SQL Alchemy init
 
 ## Purpose
 This project is an SQL Alchemy init file with some improvements. It intends to be :
